@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "7dcc1f0db4e88486b600349fe8dac577"
+build_time: [1518106327, 188519000]
+inputs:
+  "/Users/ronael/Documents/ReactNative/CodeScanner/ios/RNScanView.swift": [1518103395, 0]
+  "/Users/ronael/Documents/ReactNative/CodeScanner/ios/ScanView.swift": [1518098023, 0]
+  "/Users/ronael/Documents/ReactNative/CodeScanner/ios/RNScanViewManager.swift": [1518101239, 0]

@@ -1,0 +1,44 @@
+{
+  "name": "barcode-reactnative-ios-android",
+  "version": "0.0.1",
+  "description": "A ReactNative component to scan barcode.",
+  "license": "MIT",
+  "main": "App.js",
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NGRP/barcode-reactnative-ios-android.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NGRP/barcode-reactnative-ios-android/issues"
+  },
+  "dependencies": {
+    "prop-types": "^15.6.0",
+    "react": "16.2.0",
+    "react-native": "0.53.0"
+  },
+  "devDependencies": {
+    "babel-jest": "22.1.0",
+    "babel-preset-react-native": "4.0.0",
+    "jest": "22.1.4",
+    "react-test-renderer": "16.2.0"
+  },
+  "jest": {
+    "preset": "react-native"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "react-component",
+    "android",
+    "iOS",
+    "barcodescanner",
+    "barcode",
+    "scanner",
+    "barcodereader"
+  ]
+
+}

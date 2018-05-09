@@ -1,0 +1,147 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ScanViewManager"
+provides-nominal:
+- "11CodeScanner15ScanViewManagerC"
+provides-member:
+- ["11CodeScanner15ScanViewManagerC", ""]
+provides-dynamic-lookup:
+- "view"
+depends-top-level:
+- "RCTViewManager"
+- !private "ScanView"
+- "ScanViewManager"
+- "UIView"
+depends-member:
+- !private ["So38AVCaptureMetadataOutputObjectsDelegateP", "init"]
+- !private ["So15CALayerDelegateP", "init"]
+- !private ["s7CVarArgP", "ScanView"]
+- !private ["s7CVarArgP", "init"]
+- ["s7CVarArgP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "ScanView"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "ScanView"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s9EquatableP", "ScanView"]
+- !private ["s9EquatableP", "init"]
+- ["s9EquatableP", ""]
+- !private ["s8HashableP", "ScanView"]
+- !private ["s8HashableP", "init"]
+- ["s8HashableP", ""]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSObjectC", "ScanView"]
+- ["So8NSObjectC", "UIView"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "view"]
+- !private ["So16NSObjectProtocolP", "ScanView"]
+- !private ["So16NSObjectProtocolP", "init"]
+- ["So16NSObjectProtocolP", ""]
+- !private ["So15RCTBridgeModuleP", "ScanView"]
+- !private ["So15RCTBridgeModuleP", "init"]
+- ["So15RCTBridgeModuleP", ""]
+- !private ["So12RCTComponentP", "init"]
+- !private ["So14RCTViewManagerC", "ScanView"]
+- ["So14RCTViewManagerC", "UIView"]
+- ["So14RCTViewManagerC", "init"]
+- ["So14RCTViewManagerC", "view"]
+- ["So14RCTViewManagerC", ""]
+- !private ["11CodeScanner8ScanViewC", "init"]
+- !private ["11CodeScanner15ScanViewManagerC", "ScanView"]
+- ["11CodeScanner15ScanViewManagerC", "UIView"]
+- ["11CodeScanner15ScanViewManagerC", "deinit"]
+- ["11CodeScanner15ScanViewManagerC", "init"]
+- ["11CodeScanner15ScanViewManagerC", "view"]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So12UIAppearanceP", "init"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So17UICoordinateSpaceP", "init"]
+- !private ["So13UIDynamicItemP", "init"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So11UIFocusItemP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So11UIResponderC", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So6UIViewC", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "ScanView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+depends-nominal:
+- !private "So38AVCaptureMetadataOutputObjectsDelegateP"
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "s9EquatableP"
+- "s8HashableP"
+- !private "So8NSCodingP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- "So15RCTBridgeModuleP"
+- !private "So12RCTComponentP"
+- "So14RCTViewManagerC"
+- !private "11CodeScanner8ScanViewC"
+- "11CodeScanner15ScanViewManagerC"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- !private "So21UIAppearanceContainerP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- !private "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So30UIPasteConfigurationSupportingP"
+- !private "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- !private "So18UITraitEnvironmentP"
+- !private "So6UIViewC"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreMedia.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/simd.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/AVFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreAudio.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/ronael/Documents/ReactNative/CodeScanner/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h"
+- "/Users/ronael/Documents/ReactNative/CodeScanner/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h"
+- "/Users/ronael/Documents/ReactNative/CodeScanner/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h"
+- "/Users/ronael/Documents/ReactNative/CodeScanner/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h"
+- "/Users/ronael/Documents/ReactNative/CodeScanner/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h"
+- "/Users/ronael/Documents/ReactNative/CodeScanner/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h"
+- "/Users/ronael/Documents/ReactNative/CodeScanner/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h"
+- "/Users/ronael/Documents/ReactNative/CodeScanner/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h"
+- "/Users/ronael/Documents/ReactNative/CodeScanner/ios/CodeScanner/AppDelegate.h"
+- "/Users/ronael/Documents/ReactNative/CodeScanner/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h"
+- "/Users/ronael/Documents/ReactNative/CodeScanner/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h"
+- "/Users/ronael/Documents/ReactNative/CodeScanner/ios/CodeScanner-Bridging-Header.h"
+- "/Users/ronael/Documents/ReactNative/CodeScanner/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h"
+- "/Users/ronael/Documents/ReactNative/CodeScanner/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h"
+- "/Users/ronael/Documents/ReactNative/CodeScanner/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h"
+- "/Users/ronael/Documents/ReactNative/CodeScanner/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h"
+- "/Users/ronael/Documents/ReactNative/CodeScanner/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h"
+- "/Users/ronael/Documents/ReactNative/CodeScanner/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h"
+- "/Users/ronael/Documents/ReactNative/CodeScanner/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h"
+- "/Users/ronael/Documents/ReactNative/CodeScanner/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h"
+- "/Users/ronael/Documents/ReactNative/CodeScanner/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h"
+- "/Users/ronael/Documents/ReactNative/CodeScanner/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h"
+- "/Users/ronael/Documents/ReactNative/CodeScanner/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h"
+- "/Users/ronael/Documents/ReactNative/CodeScanner/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.2.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator11.2.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.apinotes"
+interface-hash: "c28c60239807ef24bcedd7615291d547"

@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/qifan/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.3.2/f47e3fc99fb2755b8a354d60efa021a0b88f4180/core-3.3.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f47e3fc99fb2755b8a354d60efa021a0b88f4180">
+        <dex dex="/Users/qifan/WebstormProjects/barcode-reactnative-ios-android/android/app/build/intermediates/pre-dexed/debug/core-3.3.2_33d661bce8e00acc449a9b0fd0627bcb4b7e7ac4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/qifan/WebstormProjects/barcode-reactnative-ios-android/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/qifan/WebstormProjects/barcode-reactnative-ios-android/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_9216176d12a040a2a7591a251bc2f3a6d2a9417c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/qifan/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/qifan/WebstormProjects/barcode-reactnative-ios-android/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_10ea7794abf552cca5a7e83ff93cfc1a52cf1457.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/qifan/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/qifan/WebstormProjects/barcode-reactnative-ios-android/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_fa001fbe1873216d6cc51e2c0fc05658a2d796b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/qifan/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/qifan/WebstormProjects/barcode-reactnative-ios-android/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_7661962a9cf991bb8057e6b805813aae3c6277dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/qifan/WebstormProjects/barcode-reactnative-ios-android/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/qifan/WebstormProjects/barcode-reactnative-ios-android/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_eb220d8ac852ffada4873f605cb9cc1083b97000.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/qifan/WebstormProjects/barcode-reactnative-ios-android/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/qifan/WebstormProjects/barcode-reactnative-ios-android/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_e5c8a5cb2e1ca256a1800dd5640be7f5087e5102.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/qifan/WebstormProjects/barcode-reactnative-ios-android/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/qifan/WebstormProjects/barcode-reactnative-ios-android/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_90316ac4ec81a63981df9360324b4a7b7d3a94a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/qifan/WebstormProjects/barcode-reactnative-ios-android/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/qifan/WebstormProjects/barcode-reactnative-ios-android/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_585a33e9c76dad1098f38b613b33480a0c231d90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/qifan/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/qifan/WebstormProjects/barcode-reactnative-ios-android/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_e5ac95fc53fdd23c3005277e226401d509be6e85.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/qifan/WebstormProjects/barcode-reactnative-ios-android/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.53.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b9a51262d663efadea9d0c402a5e76aace2685cb">
+        <dex dex="/Users/qifan/WebstormProjects/barcode-reactnative-ios-android/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.53.0_7bdfcab9b79e924caec368f76f30049f74e397b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/qifan/WebstormProjects/barcode-reactnative-ios-android/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/qifan/WebstormProjects/barcode-reactnative-ios-android/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_52c8edc1482e7f363a90efba7b5c9dfccd2d3902.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/qifan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/qifan/WebstormProjects/barcode-reactnative-ios-android/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_3bf2f933d83dfeeb2d6e94685a278a2417b60b5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/qifan/WebstormProjects/barcode-reactnative-ios-android/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/qifan/WebstormProjects/barcode-reactnative-ios-android/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_7f0fa7bcfe65ad0a51cd19ea85ed9a671326650b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/qifan/WebstormProjects/barcode-reactnative-ios-android/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.53.0/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/qifan/WebstormProjects/barcode-reactnative-ios-android/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_a3bf6bba7058edbc825fcca5e2666ae602c549a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/qifan/WebstormProjects/barcode-reactnative-ios-android/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/qifan/WebstormProjects/barcode-reactnative-ios-android/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_e98f4a5e27bb9cf5a00383bc9a81b25d04cfa950.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/qifan/WebstormProjects/barcode-reactnative-ios-android/android/app/build/intermediates/exploded-aar/me.dm7.barcodescanner/zbar/1.8.3/jars/libs/zbar.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="b7350ba6ec0fd2beac4e95d75410da582cec5baa">
+        <dex dex="/Users/qifan/WebstormProjects/barcode-reactnative-ios-android/android/app/build/intermediates/pre-dexed/debug/zbar_b16fa656b03b98977e2eadcfb56bccb6e572a7cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/qifan/WebstormProjects/barcode-reactnative-ios-android/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/qifan/WebstormProjects/barcode-reactnative-ios-android/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_9bab3f3a5de2dd3ac347973549b44dbc3447c33f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/qifan/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/qifan/WebstormProjects/barcode-reactnative-ios-android/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_93010a8f06eb34b19ac501f461d5490b5fc6cbb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/qifan/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/qifan/WebstormProjects/barcode-reactnative-ios-android/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_1ea018753b1b3a18f833ae2ff7d90f95bdea375d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/qifan/WebstormProjects/barcode-reactnative-ios-android/android/app/build/intermediates/exploded-aar/me.dm7.barcodescanner/core/1.8.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2acb8f25e91dc79b3e9fe3e4fc059d491756efcd">
+        <dex dex="/Users/qifan/WebstormProjects/barcode-reactnative-ios-android/android/app/build/intermediates/pre-dexed/debug/me.dm7.barcodescanner-core-1.8.3_f69cd6070e02ed003f8192b98aa069d5ed7be3b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/qifan/WebstormProjects/barcode-reactnative-ios-android/android/app/build/intermediates/exploded-aar/me.dm7.barcodescanner/zbar/1.8.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="99ec7a15c96670fc376811136c027fbd4dbc26e9">
+        <dex dex="/Users/qifan/WebstormProjects/barcode-reactnative-ios-android/android/app/build/intermediates/pre-dexed/debug/me.dm7.barcodescanner-zbar-1.8.3_1ad666bf710d39ebfb31af17fcd88cd8672e4aa6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/qifan/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/qifan/WebstormProjects/barcode-reactnative-ios-android/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_b18a03c31912af3b4b6c955debcb998ce5a7973b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/qifan/WebstormProjects/barcode-reactnative-ios-android/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/qifan/WebstormProjects/barcode-reactnative-ios-android/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_794896f5d2365d8f4dbe7e9947858129b2aee9f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/qifan/WebstormProjects/barcode-reactnative-ios-android/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/qifan/WebstormProjects/barcode-reactnative-ios-android/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_0195a8b4aa3b8accb31b4878cae0ad97bb4c136d.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "/Users/qifan/WebstormProjects/barcode-reactnative-ios-android/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xxhdpi-v4/values-xxhdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 58,
+                    "endOffset": 109
+                },
+                "from": {
+                    "file": "/Users/qifan/WebstormProjects/barcode-reactnative-ios-android/android/app/build/intermediates/exploded-aar/me.dm7.barcodescanner/core/1.8.3/res/values-xxhdpi-v4/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 199,
+                        "endColumn": 58,
+                        "endOffset": 253
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 114,
+                    "endColumn": 55,
+                    "endOffset": 165
+                },
+                "from": {
+                    "file": "/Users/qifan/WebstormProjects/barcode-reactnative-ios-android/android/app/build/intermediates/exploded-aar/me.dm7.barcodescanner/core/1.8.3/res/values-xxhdpi-v4/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 258,
+                        "endColumn": 55,
+                        "endOffset": 309
+                    }
+                }
+            }
+        ]
+    }
+]
